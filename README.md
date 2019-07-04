@@ -9,4 +9,5 @@ Ele efetua o treinamento utilizando técnicas de machine learning, como SVM, a p
 O resultado é a geração dos arquivos descritores_luenina.npy e indices_luenina.pickle. Eles serão necessários na realização dos testes.
 
 2˚: testefacesLuNina.py
-Com poucas linhas de código, o submeti à fotos novas para verificar se ele identifica e retorna o nome delas.
+Com poucas linhas de código, submeti o algoritmo à fotos novas para verificar se ele identifica e retorna o nome delas.
+Na pasta resultados as imagens contendo as marcações nas faces encontradas.
